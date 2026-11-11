@@ -163,6 +163,30 @@ Areas of work:
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=kpavith-dev&show_icons=true&include_all_commits=true&theme=dark&hide_border=true&custom_title=Paviththiran%27s+GitHub+Stats"
+    alt="Paviththiran's GitHub Stats"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com/?user=kpavith-dev&theme=dark&hide_border=true&timezone=Asia%2FColombo"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=kpavith-dev&layout=compact&langs_count=8&theme=dark&hide_border=true"
+    alt="Most Used Programming Languages"
+  />
+</p>
+
+
 ## 🤝 Let's Connect!
 
 I'm interested in connecting with developers, engineers, and technology enthusiasts to share knowledge, collaborate on projects, and explore new opportunities.
